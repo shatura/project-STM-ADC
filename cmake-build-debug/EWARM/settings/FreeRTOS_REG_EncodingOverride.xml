@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\STM32\Project_F0\FreeRTOS_REG\Inc\FreeRTOSConfig.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\STM32\Project_F0\FreeRTOS_REG\Inc\UART.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\STM32\Project_F0\FreeRTOS_REG\Src\SignalPeriodMeasurement.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\STM32\Project_F0\FreeRTOS_REG\Src\System_HSE_init.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\STM32\Project_F0\FreeRTOS_REG\Src\UART.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\STM32\Project_F0\FreeRTOS_REG\Src\main.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>D:\STM32\Project_F0\FreeRTOS_REG\Src\stm32f0xx_it.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+</userOverrides>
